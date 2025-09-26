@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Main\n
+comment2.params=
+comment2.target=void\ ball_move_loop()
+comment3.params=
+comment3.target=void\ pong_paddle_move()
+comment4.params=
+comment4.target=void\ pong_paddle_two_move()
+comment5.params=
+comment5.target=void\ check_touch()
+comment6.params=
+comment6.target=void\ speed_con()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
